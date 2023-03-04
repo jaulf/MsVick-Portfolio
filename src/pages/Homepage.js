@@ -50,7 +50,12 @@ function Homepage() {
         </div>
       </div>
 
-      {/*  */}
+      {/* Footer */}
+
+      <div>
+        <div></div>
+        <div></div>
+      </div>
     </div>
   );
 }
